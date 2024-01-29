@@ -490,6 +490,8 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  /* Moja modyfikacja */
+  text-align: justify;
 }
 
 .display-1 {
@@ -11043,4 +11045,18 @@ html {
 
 .copyright {
   background-color: #1a252f;
+}
+
+/* Moje dodane wartości */
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: center;
+  margin: auto;
+}
+
+.skills-icons {
+  margin-left: 10px;
+  margin-right: 10px;
 }
