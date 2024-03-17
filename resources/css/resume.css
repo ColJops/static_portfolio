@@ -78,7 +78,7 @@ main {
 }
 
 .main-description {
-    width: 400px;
+    width: 500px;
 }
 
 .job-title {
@@ -168,4 +168,5 @@ main {
 .checked {
     color: orange;
     text-align: end;
-  }
+}
+
